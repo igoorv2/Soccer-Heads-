@@ -1,0 +1,37 @@
+[
+    {
+        "gracz1_nazwa": "POPO",
+        "gracz2_nazwa": "DODO",
+        "wynik_gracza1": 5,
+        "wynik_gracza2": 4,
+        "czas_gry": 91
+    },
+    {
+        "gracz1_nazwa": "Francja",
+        "gracz2_nazwa": "Hiszpania",
+        "wynik_gracza1": 5,
+        "wynik_gracza2": 2,
+        "czas_gry": 27
+    },
+    {
+        "gracz1_nazwa": "X",
+        "gracz2_nazwa": "Messi",
+        "wynik_gracza1": 5,
+        "wynik_gracza2": 2,
+        "czas_gry": 61
+    },
+    {
+        "gracz1_nazwa": "adsda",
+        "gracz2_nazwa": "dfsf",
+        "wynik_gracza1": 5,
+        "wynik_gracza2": 2,
+        "czas_gry": 0
+    },
+    {
+        "gracz1_nazwa": "adsd",
+        "gracz2_nazwa": "dadsa",
+        "wynik_gracza1": 5,
+        "wynik_gracza2": 4,
+        "czas_gry": 114
+    }
+]

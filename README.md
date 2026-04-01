@@ -1,2 +1,33 @@
-# Soccer-Heads-
-Soccer Heads to gra piłkarska, w której dwóch graczy steruje postaciami przypominającymi głowy zawodników piłkarskich. Rozgrywka jest oparta na mechanice zdobywania bramek, gdzie celem jest strzelenie 5 bramek (zawodnik który pierwszy zdobędzie tą ustaloną liczbę bramek-wygrywa). Gra została stworzona przy użyciu biblioteki Pygame, zorganizowana w klasy, takie jak Gracz, Piłka, Mecz, Gra, z wykorzystaniem dziedziczenia i metod specjalnych. Rozgrywka pozwola na sterowanie graczami za pomocą klawiatury, a wynik meczu będzie wyświetlany na ekranie, wraz z czasem rozgrywki. W menu głównym gracze mogą wpisać swoje nicki. Po zakończeniu meczu wyświetla się także ekran z gratulacjami dla zwycięzcy wraz z efektem dźwiękowym. A dodatkowo, gra umożliwia zapis i odczyt danych, takich jak wyniki meczów, do plików JSON. 
+## Soccer Heads - gra piłkarska w Pythonie
+Projekt przedstawia prostą grę piłkarską inspirowaną grą Soccer Heads, w której dwóch graczy steruje postaciami przypominającymi głowy piłkarzy.
+
+Gra została stworzona w języku *Python* z wykorzystaniem biblioteki *Pygame*.
+
+## Opis gry
+Rozgrywka polega na zdobywaniu bramek przez zawodników sterowanych przez dwóch graczy.
+Celem gry jest zdobycie 5 bramek - gracz, który jako pierwszy osiągnie tę liczbę, wygrywa mecz.
+
+Podczas rozgrywki na ekranie wyświetlane są:
+- aktualny wynik
+- czas trwania rozgrywki
+
+Po zakończeniu meczu pojawia się ekran z informacją o zwycięzcy wraz z efektem dźwiękowym.
+
+## Funkcje gry
+Gra oferuje między innymi:
+- sterowanie dwoma zawodnikami przy użyciu klawiatury
+- system zdobywania bramek
+- licznik czasu meczu
+- menu główne z możliwością wpisania nicków graczy
+- ekran zwycięstwa
+- efekty dźwiękowe
+- zapis i odczyt wyników meczów do pliku *JSON*
+
+## Technologie
+- Python
+- Pygame
+- programowanie obiektowe (OOP)
+
+## Uruchumienie gry
+1. Zainstaluj biblioteke pygame
+2. Uruchom grę
